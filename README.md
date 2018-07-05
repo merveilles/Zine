@@ -8,3 +8,5 @@ a zine from the darkest light
 - Include a media of size `WxH`, titled as `media.png`.
 
 * Write `DO NOT CROP` in the commit message if you don't want the contribution to be cropped at all.
+
+## Submission Deadline: August 1st 2018
