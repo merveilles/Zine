@@ -1,5 +1,6 @@
 # MerveillesZine
-a zine from the darkest light
+
+A zine from the darkest light.
 
 ## Contribute
 
@@ -7,6 +8,6 @@ a zine from the darkest light
 - Include a short text `info.md` with credits and contact info, see `/submissions/neauoire/info.md`.
 - Include a media of size `WxH`, titled as `media.png`.
 
-* Write `DO NOT CROP` in the commit message if you don't want the contribution to be cropped at all.
+## Volume I
 
-## Submission Deadline: August 1st 2018
+- Submit your content prior to [18P03](http://wiki.xxiivv.com/desamber), or **August 1st 2018**.
