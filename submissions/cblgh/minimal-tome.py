@@ -25,15 +25,15 @@ def study():
         with io.open("tome.txt", "r", encoding="utf8") as tome_file:
             tome = json.load(tome_file)
     except IOError:
-        print "this is the start of your tome.\n"
-        print "write entries as <activity>:<data>:<description>, e.g."
-        print "programming:python:writing a small time tracker for volume 1 of the zine\n"
-        print "data and|or description can be left out"
-        print "enjoy."
+        print("this is the start of your tome.\n")
+        print("write entries as <activity>:<data>:<description>, e.g.")
+        print("programming:python:writing a small time tracker for volume 1 of the zine\n")
+        print("data and|or description can be left out")
+        print("enjoy.")
         return
     for log in tome:
         log = {key: val.encode("cp437") for key, val in log.items()}
-        print "{activity:24} {day} {date}".format(**log)
+        print("{activity:24} {day} {date}".format(**log))
 
 study()
 while True:
