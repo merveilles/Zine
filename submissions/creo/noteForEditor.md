@@ -1,0 +1,7 @@
+- All images are 300dpi RGB.
+- zBG.png is meant to be page background.
+- z0n.png is art for showcase.
+- Do whatever You feel is necessary.
+- You are free to discard either any of the art and/or background image as prefered.
+- You are free to modify, overlay, cut, correct or whatever provided material.
+- I don't mind.
