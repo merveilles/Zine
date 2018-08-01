@@ -1,0 +1,15 @@
+A pentagram is a joystick.
+A prayer is a function call. 
+
+Simple interfaces to complex systems. 
+
+You can imagine the universe is an impossibly complex system. We study obserable patterns, but to truly know it is to see its source code. 
+ 
+Religion, spirituality, psychology, magic, witchcraft, astrology -
+API layers.
+
+A ritual. An artifact. A temple. 
+Abstractions of complex behaviors using familiar interfaces and structures.
+
+[001.png]
+-A simple ceullar simulation generates gridded patterns that resemble words. Or, perhaps, the cries of lost spirits trying to get home 
