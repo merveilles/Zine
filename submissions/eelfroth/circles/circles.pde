@@ -1,9 +1,14 @@
-final float S = 1;    //step
-final float W = 10;   //weight
-final float A = 255;  //alpha
-final float R = PI/3; //rotation
-final float M = 0;    //modulo
-final float Z = 0.9;  //zoom
+// this is Processing source code
+// get the IDE at processing.org
+// and type in this little program
+// tweak the numbers to explore...
+
+float S = 1;    //step
+float W = 10;   //weight
+float A = 255;  //alpha
+float R = PI/3; //rotation
+float M = 0;    //modulo
+float Z = 0.9;  //zoom
 
 float i;
 
