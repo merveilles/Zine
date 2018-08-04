@@ -1,6 +1,6 @@
 Name: Nyl Aurilon
 
-Title: The Traversal
+Title: Traversal
 
 Date: 2018-07-30
 
